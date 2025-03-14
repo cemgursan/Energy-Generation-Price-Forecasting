@@ -4,26 +4,24 @@ This project fetches NREL solar data and forecasts solar irradiation to forecast
 
 Written in Jupyter Notebook. Notebook files are uploaded.
 
-Dependencies
+## Dependencies
 
 Python, Numpy, Pandas, Scikit, Seaborn, statsmodels, xgboost, Matplot libraries, & Jupyter Notebook are necessary
 
-Installing & Executing program
+## Installing & Executing program
 
 Just upload the ipynb to your jupyter notebook folder
 Different types of functions are clustered in different Cells.
 Just Run the cells that you are interested in.
 
-Help
+## Help
 
 Check comments for what the program does Currently Supervised learning methods are uploaded
 
-Authors
+## Authors
 
 Cem Gursan
 
-Version History
+## Version History
 
-0.1
-
-Initial Release -Forecasting Energy Generation and Electricity Prices
+0.1 - Initial Release -Forecasting Energy Generation and Electricity Prices

@@ -1,0 +1,433 @@
+period,stateid,stateDescription,sectorid,sectorName,sales,sales-units
+2023-12,NY,New York,ALL,all sectors,11552.48165,million kilowatt hours
+2023-12,NY,New York,COM,commercial,5868.06085,million kilowatt hours
+2023-12,NY,New York,IND,industrial,1157.99046,million kilowatt hours
+2023-12,NY,New York,OTH,other,,million kilowatt hours
+2023-12,NY,New York,RES,residential,4294.03398,million kilowatt hours
+2023-12,NY,New York,TRA,transportation,232.39635,million kilowatt hours
+2023-06,NY,New York,ALL,all sectors,11078.68809,million kilowatt hours
+2023-06,NY,New York,COM,commercial,5770.23991,million kilowatt hours
+2023-06,NY,New York,IND,industrial,1237.44311,million kilowatt hours
+2023-06,NY,New York,OTH,other,,million kilowatt hours
+2023-06,NY,New York,RES,residential,3849.08287,million kilowatt hours
+2023-06,NY,New York,TRA,transportation,221.9222,million kilowatt hours
+2024-05,NY,New York,ALL,all sectors,10099.97518,million kilowatt hours
+2024-05,NY,New York,COM,commercial,5189.97976,million kilowatt hours
+2024-05,NY,New York,IND,industrial,1304.3951,million kilowatt hours
+2024-05,NY,New York,OTH,other,,million kilowatt hours
+2024-05,NY,New York,RES,residential,3368.08758,million kilowatt hours
+2024-05,NY,New York,TRA,transportation,237.51274,million kilowatt hours
+2024-02,NY,New York,ALL,all sectors,11343.86243,million kilowatt hours
+2024-02,NY,New York,COM,commercial,5628.36984,million kilowatt hours
+2024-02,NY,New York,IND,industrial,1314.07737,million kilowatt hours
+2024-02,NY,New York,OTH,other,,million kilowatt hours
+2024-02,NY,New York,RES,residential,4193.45946,million kilowatt hours
+2024-02,NY,New York,TRA,transportation,207.95576,million kilowatt hours
+2023-09,NY,New York,ALL,all sectors,12679.45665,million kilowatt hours
+2023-09,NY,New York,COM,commercial,6464.23331,million kilowatt hours
+2023-09,NY,New York,IND,industrial,1316.23883,million kilowatt hours
+2023-09,NY,New York,OTH,other,,million kilowatt hours
+2023-09,NY,New York,RES,residential,4622.04973,million kilowatt hours
+2023-09,NY,New York,TRA,transportation,276.93478,million kilowatt hours
+2024-01,NY,New York,ALL,all sectors,11832.09325,million kilowatt hours
+2022-08,NY,New York,ALL,all sectors,14847.97056,million kilowatt hours
+2022-08,NY,New York,COM,commercial,7259.11497,million kilowatt hours
+2022-08,NY,New York,IND,industrial,1433.56344,million kilowatt hours
+2022-08,NY,New York,OTH,other,,million kilowatt hours
+2022-08,NY,New York,RES,residential,5944.88409,million kilowatt hours
+2022-08,NY,New York,TRA,transportation,210.40806,million kilowatt hours
+2022-01,NY,New York,ALL,all sectors,12313.36233,million kilowatt hours
+2022-01,NY,New York,COM,commercial,5980.28086,million kilowatt hours
+2022-01,NY,New York,IND,industrial,1448.25496,million kilowatt hours
+2022-01,NY,New York,OTH,other,,million kilowatt hours
+2022-01,NY,New York,RES,residential,4674.76058,million kilowatt hours
+2022-01,NY,New York,TRA,transportation,210.06593,million kilowatt hours
+2020-04,NY,New York,RES,residential,3559.95949,million kilowatt hours
+2020-04,NY,New York,TRA,transportation,159.61357,million kilowatt hours
+2020-08,NY,New York,ALL,all sectors,14164.86484,million kilowatt hours
+2020-08,NY,New York,COM,commercial,6559.11562,million kilowatt hours
+2020-08,NY,New York,IND,industrial,1427.9974,million kilowatt hours
+2020-08,NY,New York,OTH,other,,million kilowatt hours
+2020-08,NY,New York,RES,residential,5958.49274,million kilowatt hours
+2020-08,NY,New York,TRA,transportation,219.25908,million kilowatt hours
+2019-01,NY,New York,ALL,all sectors,12550.15155,million kilowatt hours
+2019-01,NY,New York,COM,commercial,6287.69679,million kilowatt hours
+2019-01,NY,New York,IND,industrial,1518.00536,million kilowatt hours
+2019-01,NY,New York,OTH,other,,million kilowatt hours
+2019-01,NY,New York,RES,residential,4492.28732,million kilowatt hours
+2019-01,NY,New York,TRA,transportation,252.16209,million kilowatt hours
+2019-06,NY,New York,ALL,all sectors,11783.70432,million kilowatt hours
+2019-06,NY,New York,COM,commercial,6142.61863,million kilowatt hours
+2019-06,NY,New York,IND,industrial,1533.66568,million kilowatt hours
+2019-06,NY,New York,OTH,other,,million kilowatt hours
+2019-06,NY,New York,RES,residential,3875.68239,million kilowatt hours
+2020-07,NY,New York,ALL,all sectors,14462.22528,million kilowatt hours
+2020-07,NY,New York,COM,commercial,6672.4015,million kilowatt hours
+2020-07,NY,New York,IND,industrial,1459.4448,million kilowatt hours
+2020-07,NY,New York,OTH,other,,million kilowatt hours
+2020-07,NY,New York,RES,residential,6104.68204,million kilowatt hours
+2020-07,NY,New York,TRA,transportation,225.69694,million kilowatt hours
+2020-05,NY,New York,ALL,all sectors,9729.97032,million kilowatt hours
+2020-05,NY,New York,COM,commercial,4804.56284,million kilowatt hours
+2020-05,NY,New York,IND,industrial,1183.52924,million kilowatt hours
+2020-05,NY,New York,OTH,other,,million kilowatt hours
+2020-05,NY,New York,RES,residential,3563.75258,million kilowatt hours
+2020-05,NY,New York,TRA,transportation,178.12566,million kilowatt hours
+2020-06,NY,New York,ALL,all sectors,11464.54553,million kilowatt hours
+2020-09,NY,New York,ALL,all sectors,12416.35791,million kilowatt hours
+2020-09,NY,New York,COM,commercial,6031.89762,million kilowatt hours
+2020-09,NY,New York,IND,industrial,1386.92984,million kilowatt hours
+2020-09,NY,New York,OTH,other,,million kilowatt hours
+2020-09,NY,New York,RES,residential,4786.68005,million kilowatt hours
+2020-09,NY,New York,TRA,transportation,210.8504,million kilowatt hours
+2019-02,NY,New York,ALL,all sectors,12133.58962,million kilowatt hours
+2019-02,NY,New York,COM,commercial,6250.57793,million kilowatt hours
+2019-02,NY,New York,IND,industrial,1439.36726,million kilowatt hours
+2019-02,NY,New York,OTH,other,,million kilowatt hours
+2019-02,NY,New York,RES,residential,4192.62499,million kilowatt hours
+2019-02,NY,New York,TRA,transportation,251.01944,million kilowatt hours
+2021-08,NY,New York,ALL,all sectors,13987.32657,million kilowatt hours
+2021-08,NY,New York,COM,commercial,6665.7127,million kilowatt hours
+2021-08,NY,New York,IND,industrial,1463.93646,million kilowatt hours
+2021-08,NY,New York,OTH,other,,million kilowatt hours
+2021-08,NY,New York,RES,residential,5659.41623,million kilowatt hours
+2021-08,NY,New York,TRA,transportation,198.2612,million kilowatt hours
+2020-06,NY,New York,COM,commercial,5561.21279,million kilowatt hours
+2020-06,NY,New York,IND,industrial,1332.76419,million kilowatt hours
+2020-06,NY,New York,OTH,other,,million kilowatt hours
+2020-06,NY,New York,RES,residential,4379.17878,million kilowatt hours
+2020-06,NY,New York,TRA,transportation,191.38977,million kilowatt hours
+2021-09,NY,New York,ALL,all sectors,12981.07732,million kilowatt hours
+2021-09,NY,New York,COM,commercial,6356.47915,million kilowatt hours
+2021-09,NY,New York,IND,industrial,1495.01873,million kilowatt hours
+2021-09,NY,New York,OTH,other,,million kilowatt hours
+2021-09,NY,New York,RES,residential,4932.4376,million kilowatt hours
+2021-09,NY,New York,TRA,transportation,197.14184,million kilowatt hours
+2019-09,NY,New York,ALL,all sectors,12742.6194,million kilowatt hours
+2019-09,NY,New York,COM,commercial,6651.88882,million kilowatt hours
+2019-08,NY,New York,ALL,all sectors,14645.82138,million kilowatt hours
+2019-08,NY,New York,COM,commercial,7273.39183,million kilowatt hours
+2019-08,NY,New York,IND,industrial,1545.60765,million kilowatt hours
+2019-08,NY,New York,OTH,other,,million kilowatt hours
+2019-08,NY,New York,RES,residential,5589.50099,million kilowatt hours
+2019-08,NY,New York,TRA,transportation,237.32091,million kilowatt hours
+2019-09,NY,New York,IND,industrial,1493.73292,million kilowatt hours
+2019-09,NY,New York,OTH,other,,million kilowatt hours
+2019-09,NY,New York,RES,residential,4360.14147,million kilowatt hours
+2019-09,NY,New York,TRA,transportation,236.85619,million kilowatt hours
+2021-12,NY,New York,COM,commercial,5770.09756,million kilowatt hours
+2021-12,NY,New York,IND,industrial,1405.69278,million kilowatt hours
+2021-12,NY,New York,OTH,other,,million kilowatt hours
+2021-12,NY,New York,RES,residential,4223.90204,million kilowatt hours
+2021-12,NY,New York,TRA,transportation,211.18957,million kilowatt hours
+2021-06,NY,New York,OTH,other,,million kilowatt hours
+2021-06,NY,New York,RES,residential,4502.46344,million kilowatt hours
+2021-06,NY,New York,TRA,transportation,197.53558,million kilowatt hours
+2021-01,NY,New York,ALL,all sectors,12123.06699,million kilowatt hours
+2021-01,NY,New York,COM,commercial,5853.01671,million kilowatt hours
+2021-01,NY,New York,IND,industrial,1379.99135,million kilowatt hours
+2021-01,NY,New York,OTH,other,,million kilowatt hours
+2021-01,NY,New York,RES,residential,4661.62879,million kilowatt hours
+2021-01,NY,New York,TRA,transportation,228.43013,million kilowatt hours
+2021-12,NY,New York,ALL,all sectors,11610.88195,million kilowatt hours
+2021-05,NY,New York,TRA,transportation,183.73902,million kilowatt hours
+2021-05,NY,New York,ALL,all sectors,10004.43587,million kilowatt hours
+2021-05,NY,New York,COM,commercial,5028.02455,million kilowatt hours
+2021-05,NY,New York,IND,industrial,1401.19931,million kilowatt hours
+2021-05,NY,New York,OTH,other,,million kilowatt hours
+2021-05,NY,New York,RES,residential,3391.47299,million kilowatt hours
+2021-03,NY,New York,ALL,all sectors,11097.66809,million kilowatt hours
+2021-03,NY,New York,COM,commercial,5509.93498,million kilowatt hours
+2021-03,NY,New York,IND,industrial,1267.53804,million kilowatt hours
+2021-03,NY,New York,OTH,other,,million kilowatt hours
+2021-03,NY,New York,RES,residential,4114.99515,million kilowatt hours
+2021-03,NY,New York,TRA,transportation,205.19993,million kilowatt hours
+2021-06,NY,New York,ALL,all sectors,12077.34138,million kilowatt hours
+2021-06,NY,New York,COM,commercial,5937.10066,million kilowatt hours
+2021-06,NY,New York,IND,industrial,1440.24169,million kilowatt hours
+2021-11,NY,New York,RES,residential,3577.61279,million kilowatt hours
+2021-11,NY,New York,TRA,transportation,190.63792,million kilowatt hours
+2021-10,NY,New York,ALL,all sectors,10999.90458,million kilowatt hours
+2021-10,NY,New York,COM,commercial,5722.21597,million kilowatt hours
+2021-10,NY,New York,IND,industrial,1363.39352,million kilowatt hours
+2021-10,NY,New York,OTH,other,,million kilowatt hours
+2021-10,NY,New York,RES,residential,3707.8363,million kilowatt hours
+2021-10,NY,New York,TRA,transportation,206.45879,million kilowatt hours
+2021-07,NY,New York,ALL,all sectors,13922.26356,million kilowatt hours
+2021-07,NY,New York,COM,commercial,6702.69798,million kilowatt hours
+2021-07,NY,New York,IND,industrial,1501.71452,million kilowatt hours
+2021-07,NY,New York,OTH,other,,million kilowatt hours
+2021-07,NY,New York,RES,residential,5512.32175,million kilowatt hours
+2021-07,NY,New York,TRA,transportation,205.52931,million kilowatt hours
+2020-02,NY,New York,ALL,all sectors,11497.06322,million kilowatt hours
+2020-02,NY,New York,COM,commercial,5905.28291,million kilowatt hours
+2020-02,NY,New York,IND,industrial,1428.37605,million kilowatt hours
+2020-02,NY,New York,OTH,other,,million kilowatt hours
+2020-02,NY,New York,RES,residential,3924.95335,million kilowatt hours
+2020-02,NY,New York,TRA,transportation,238.45091,million kilowatt hours
+2021-04,NY,New York,TRA,transportation,198.89093,million kilowatt hours
+2021-04,NY,New York,ALL,all sectors,10225.39278,million kilowatt hours
+2021-04,NY,New York,COM,commercial,5137.31941,million kilowatt hours
+2021-04,NY,New York,IND,industrial,1393.96518,million kilowatt hours
+2021-04,NY,New York,OTH,other,,million kilowatt hours
+2021-04,NY,New York,RES,residential,3495.21726,million kilowatt hours
+2021-11,NY,New York,ALL,all sectors,10667.97101,million kilowatt hours
+2021-11,NY,New York,COM,commercial,5503.13445,million kilowatt hours
+2021-11,NY,New York,IND,industrial,1396.58585,million kilowatt hours
+2021-11,NY,New York,OTH,other,,million kilowatt hours
+2021-02,NY,New York,ALL,all sectors,11726.44807,million kilowatt hours
+2021-02,NY,New York,COM,commercial,5734.75407,million kilowatt hours
+2021-02,NY,New York,IND,industrial,1381.87457,million kilowatt hours
+2021-02,NY,New York,OTH,other,,million kilowatt hours
+2021-02,NY,New York,RES,residential,4377.57766,million kilowatt hours
+2021-02,NY,New York,TRA,transportation,232.24177,million kilowatt hours
+2020-04,NY,New York,ALL,all sectors,10322.36486,million kilowatt hours
+2020-04,NY,New York,COM,commercial,5248.53643,million kilowatt hours
+2020-04,NY,New York,IND,industrial,1354.25538,million kilowatt hours
+2020-04,NY,New York,OTH,other,,million kilowatt hours
+2019-05,NY,New York,TRA,transportation,209.89071,million kilowatt hours
+2019-10,NY,New York,ALL,all sectors,11152.71919,million kilowatt hours
+2019-10,NY,New York,COM,commercial,6002.5743,million kilowatt hours
+2019-10,NY,New York,IND,industrial,1427.1789,million kilowatt hours
+2019-10,NY,New York,OTH,other,,million kilowatt hours
+2019-10,NY,New York,RES,residential,3495.08254,million kilowatt hours
+2019-10,NY,New York,TRA,transportation,227.88346,million kilowatt hours
+2020-01,NY,New York,ALL,all sectors,12200.52008,million kilowatt hours
+2020-01,NY,New York,COM,commercial,6231.32221,million kilowatt hours
+2020-01,NY,New York,IND,industrial,1370.10047,million kilowatt hours
+2020-01,NY,New York,OTH,other,,million kilowatt hours
+2020-01,NY,New York,RES,residential,4348.81708,million kilowatt hours
+2020-01,NY,New York,TRA,transportation,250.28032,million kilowatt hours
+2020-03,NY,New York,ALL,all sectors,11162.18297,million kilowatt hours
+2019-12,NY,New York,ALL,all sectors,12089.90511,million kilowatt hours
+2019-12,NY,New York,COM,commercial,6194.65574,million kilowatt hours
+2019-12,NY,New York,IND,industrial,1376.93952,million kilowatt hours
+2019-12,NY,New York,OTH,other,,million kilowatt hours
+2019-12,NY,New York,RES,residential,4266.22906,million kilowatt hours
+2019-12,NY,New York,TRA,transportation,252.08078,million kilowatt hours
+2019-04,NY,New York,ALL,all sectors,10713.15004,million kilowatt hours
+2019-04,NY,New York,COM,commercial,5660.75972,million kilowatt hours
+2019-04,NY,New York,IND,industrial,1438.53058,million kilowatt hours
+2019-04,NY,New York,OTH,other,,million kilowatt hours
+2019-04,NY,New York,RES,residential,3395.27315,million kilowatt hours
+2019-04,NY,New York,TRA,transportation,218.58659,million kilowatt hours
+2019-07,NY,New York,ALL,all sectors,14583.64457,million kilowatt hours
+2019-07,NY,New York,COM,commercial,7155.92972,million kilowatt hours
+2019-07,NY,New York,IND,industrial,1702.10999,million kilowatt hours
+2019-07,NY,New York,OTH,other,,million kilowatt hours
+2019-07,NY,New York,RES,residential,5490.22837,million kilowatt hours
+2019-07,NY,New York,TRA,transportation,235.37649,million kilowatt hours
+2019-11,NY,New York,ALL,all sectors,10978.37062,million kilowatt hours
+2019-11,NY,New York,COM,commercial,5744.01638,million kilowatt hours
+2019-11,NY,New York,IND,industrial,1481.0326,million kilowatt hours
+2019-11,NY,New York,OTH,other,,million kilowatt hours
+2019-11,NY,New York,RES,residential,3527.5436,million kilowatt hours
+2019-11,NY,New York,TRA,transportation,225.77805,million kilowatt hours
+2019-06,NY,New York,TRA,transportation,231.73763,million kilowatt hours
+2020-03,NY,New York,COM,commercial,5751.01966,million kilowatt hours
+2020-03,NY,New York,IND,industrial,1381.69826,million kilowatt hours
+2020-03,NY,New York,OTH,other,,million kilowatt hours
+2020-03,NY,New York,RES,residential,3799.343,million kilowatt hours
+2020-03,NY,New York,TRA,transportation,230.12206,million kilowatt hours
+2020-12,NY,New York,ALL,all sectors,11689.62583,million kilowatt hours
+2020-12,NY,New York,COM,commercial,5632.89248,million kilowatt hours
+2020-12,NY,New York,IND,industrial,1424.45572,million kilowatt hours
+2020-12,NY,New York,OTH,other,,million kilowatt hours
+2020-12,NY,New York,RES,residential,4403.19408,million kilowatt hours
+2020-12,NY,New York,TRA,transportation,229.08356,million kilowatt hours
+2020-10,NY,New York,ALL,all sectors,10780.31188,million kilowatt hours
+2020-10,NY,New York,COM,commercial,5358.00619,million kilowatt hours
+2020-10,NY,New York,IND,industrial,1415.21001,million kilowatt hours
+2020-10,NY,New York,OTH,other,,million kilowatt hours
+2020-10,NY,New York,RES,residential,3799.17026,million kilowatt hours
+2020-10,NY,New York,TRA,transportation,207.92542,million kilowatt hours
+2019-03,NY,New York,ALL,all sectors,11682.37537,million kilowatt hours
+2019-03,NY,New York,COM,commercial,5984.97401,million kilowatt hours
+2019-03,NY,New York,IND,industrial,1401.4909,million kilowatt hours
+2019-03,NY,New York,OTH,other,,million kilowatt hours
+2019-03,NY,New York,RES,residential,4054.53779,million kilowatt hours
+2019-03,NY,New York,TRA,transportation,241.37267,million kilowatt hours
+2020-11,NY,New York,ALL,all sectors,10516.59928,million kilowatt hours
+2020-11,NY,New York,COM,commercial,5232.56676,million kilowatt hours
+2020-11,NY,New York,IND,industrial,1445.69564,million kilowatt hours
+2020-11,NY,New York,OTH,other,,million kilowatt hours
+2020-11,NY,New York,RES,residential,3628.92056,million kilowatt hours
+2020-11,NY,New York,TRA,transportation,209.41632,million kilowatt hours
+2019-05,NY,New York,ALL,all sectors,10544.29382,million kilowatt hours
+2019-05,NY,New York,COM,commercial,5741.73613,million kilowatt hours
+2019-05,NY,New York,IND,industrial,1190.79564,million kilowatt hours
+2019-05,NY,New York,OTH,other,,million kilowatt hours
+2019-05,NY,New York,RES,residential,3401.87134,million kilowatt hours
+2022-03,NY,New York,ALL,all sectors,11363.67808,million kilowatt hours
+2022-03,NY,New York,COM,commercial,5811.19792,million kilowatt hours
+2022-03,NY,New York,IND,industrial,1187.93,million kilowatt hours
+2022-03,NY,New York,OTH,other,,million kilowatt hours
+2022-03,NY,New York,RES,residential,4116.51871,million kilowatt hours
+2022-03,NY,New York,TRA,transportation,248.03146,million kilowatt hours
+2022-12,NY,New York,ALL,all sectors,11988.82038,million kilowatt hours
+2022-12,NY,New York,COM,commercial,6173.99254,million kilowatt hours
+2022-12,NY,New York,IND,industrial,1352.53795,million kilowatt hours
+2022-12,NY,New York,OTH,other,,million kilowatt hours
+2022-12,NY,New York,RES,residential,4234.46457,million kilowatt hours
+2022-12,NY,New York,TRA,transportation,227.82532,million kilowatt hours
+2023-04,NY,New York,ALL,all sectors,10330.12363,million kilowatt hours
+2023-04,NY,New York,COM,commercial,5406.48007,million kilowatt hours
+2023-04,NY,New York,IND,industrial,1320.81529,million kilowatt hours
+2023-04,NY,New York,OTH,other,,million kilowatt hours
+2023-04,NY,New York,RES,residential,3396.08267,million kilowatt hours
+2023-04,NY,New York,TRA,transportation,206.7456,million kilowatt hours
+2022-09,NY,New York,ALL,all sectors,12990.33892,million kilowatt hours
+2022-09,NY,New York,COM,commercial,6489.48534,million kilowatt hours
+2022-09,NY,New York,IND,industrial,1410.00487,million kilowatt hours
+2022-05,NY,New York,ALL,all sectors,10423.16152,million kilowatt hours
+2022-05,NY,New York,COM,commercial,5417.88478,million kilowatt hours
+2024-09,NY,New York,OTH,other,,million kilowatt hours
+2024-09,NY,New York,RES,residential,4359.66746,million kilowatt hours
+2024-09,NY,New York,TRA,transportation,249.78879,million kilowatt hours
+2022-09,NY,New York,OTH,other,,million kilowatt hours
+2022-09,NY,New York,RES,residential,4871.89367,million kilowatt hours
+2022-09,NY,New York,TRA,transportation,218.95504,million kilowatt hours
+2022-06,NY,New York,ALL,all sectors,11906.73885,million kilowatt hours
+2022-06,NY,New York,COM,commercial,6005.19352,million kilowatt hours
+2022-06,NY,New York,IND,industrial,1433.61303,million kilowatt hours
+2022-06,NY,New York,OTH,other,,million kilowatt hours
+2022-06,NY,New York,RES,residential,4263.37621,million kilowatt hours
+2022-06,NY,New York,TRA,transportation,204.55609,million kilowatt hours
+2023-07,NY,New York,RES,residential,5560.01128,million kilowatt hours
+2023-07,NY,New York,TRA,transportation,240.90642,million kilowatt hours
+2022-07,NY,New York,ALL,all sectors,13868.68065,million kilowatt hours
+2022-07,NY,New York,COM,commercial,6565.05719,million kilowatt hours
+2022-07,NY,New York,IND,industrial,1451.4685,million kilowatt hours
+2022-07,NY,New York,OTH,other,,million kilowatt hours
+2022-07,NY,New York,RES,residential,5637.79053,million kilowatt hours
+2022-07,NY,New York,TRA,transportation,214.36442,million kilowatt hours
+2022-04,NY,New York,ALL,all sectors,10615.71426,million kilowatt hours
+2022-04,NY,New York,COM,commercial,5510.56303,million kilowatt hours
+2022-04,NY,New York,IND,industrial,1370.73764,million kilowatt hours
+2022-04,NY,New York,OTH,other,,million kilowatt hours
+2022-04,NY,New York,RES,residential,3536.87642,million kilowatt hours
+2022-04,NY,New York,TRA,transportation,197.53717,million kilowatt hours
+2023-03,NY,New York,ALL,all sectors,11221.11643,million kilowatt hours
+2023-03,NY,New York,COM,commercial,5722.55412,million kilowatt hours
+2023-03,NY,New York,IND,industrial,1294.85236,million kilowatt hours
+2023-03,NY,New York,OTH,other,,million kilowatt hours
+2023-03,NY,New York,RES,residential,3977.9378,million kilowatt hours
+2023-05,NY,New York,ALL,all sectors,10197.20731,million kilowatt hours
+2023-05,NY,New York,COM,commercial,5313.69486,million kilowatt hours
+2023-05,NY,New York,IND,industrial,1299.83949,million kilowatt hours
+2023-05,NY,New York,OTH,other,,million kilowatt hours
+2023-05,NY,New York,RES,residential,3380.73189,million kilowatt hours
+2023-05,NY,New York,TRA,transportation,202.94106,million kilowatt hours
+2022-11,NY,New York,ALL,all sectors,10488.56647,million kilowatt hours
+2022-11,NY,New York,COM,commercial,5410.0385,million kilowatt hours
+2022-11,NY,New York,IND,industrial,1400.91005,million kilowatt hours
+2022-11,NY,New York,OTH,other,,million kilowatt hours
+2022-11,NY,New York,RES,residential,3448.43457,million kilowatt hours
+2022-11,NY,New York,TRA,transportation,229.18335,million kilowatt hours
+2022-10,NY,New York,ALL,all sectors,10809.58705,million kilowatt hours
+2022-10,NY,New York,COM,commercial,5738.24945,million kilowatt hours
+2022-10,NY,New York,IND,industrial,1309.49884,million kilowatt hours
+2022-10,NY,New York,OTH,other,,million kilowatt hours
+2022-10,NY,New York,RES,residential,3550.87459,million kilowatt hours
+2022-10,NY,New York,TRA,transportation,210.96416,million kilowatt hours
+2024-12,NY,New York,ALL,all sectors,12002.1873,million kilowatt hours
+2024-12,NY,New York,COM,commercial,6028.52748,million kilowatt hours
+2024-12,NY,New York,IND,industrial,1291.21876,million kilowatt hours
+2024-12,NY,New York,OTH,other,,million kilowatt hours
+2024-12,NY,New York,RES,residential,4432.85741,million kilowatt hours
+2024-12,NY,New York,TRA,transportation,249.58365,million kilowatt hours
+2024-06,NY,New York,IND,industrial,1321.93228,million kilowatt hours
+2024-06,NY,New York,OTH,other,,million kilowatt hours
+2024-06,NY,New York,RES,residential,4410.43786,million kilowatt hours
+2024-01,NY,New York,COM,commercial,5801.26154,million kilowatt hours
+2024-01,NY,New York,IND,industrial,1344.51847,million kilowatt hours
+2024-01,NY,New York,OTH,other,,million kilowatt hours
+2024-01,NY,New York,RES,residential,4438.25855,million kilowatt hours
+2024-01,NY,New York,TRA,transportation,248.05469,million kilowatt hours
+2024-09,NY,New York,ALL,all sectors,12173.18358,million kilowatt hours
+2024-09,NY,New York,COM,commercial,6191.43498,million kilowatt hours
+2024-09,NY,New York,IND,industrial,1372.29235,million kilowatt hours
+2024-06,NY,New York,ALL,all sectors,12057.68361,million kilowatt hours
+2024-06,NY,New York,COM,commercial,6098.22474,million kilowatt hours
+2023-01,NY,New York,ALL,all sectors,11907.8577,million kilowatt hours
+2023-01,NY,New York,COM,commercial,6006.11394,million kilowatt hours
+2023-01,NY,New York,IND,industrial,1201.36554,million kilowatt hours
+2023-01,NY,New York,OTH,other,,million kilowatt hours
+2023-01,NY,New York,RES,residential,4476.75456,million kilowatt hours
+2023-01,NY,New York,TRA,transportation,223.62367,million kilowatt hours
+2022-02,NY,New York,ALL,all sectors,11593.89792,million kilowatt hours
+2022-02,NY,New York,COM,commercial,5844.5309,million kilowatt hours
+2022-02,NY,New York,IND,industrial,1169.18194,million kilowatt hours
+2022-02,NY,New York,OTH,other,,million kilowatt hours
+2022-02,NY,New York,RES,residential,4343.20588,million kilowatt hours
+2022-02,NY,New York,TRA,transportation,236.9792,million kilowatt hours
+2024-03,NY,New York,ALL,all sectors,10943.12174,million kilowatt hours
+2024-03,NY,New York,COM,commercial,5656.39338,million kilowatt hours
+2024-03,NY,New York,IND,industrial,1293.41779,million kilowatt hours
+2024-03,NY,New York,OTH,other,,million kilowatt hours
+2024-03,NY,New York,RES,residential,3773.14596,million kilowatt hours
+2024-03,NY,New York,TRA,transportation,220.16462,million kilowatt hours
+2023-10,NY,New York,ALL,all sectors,10747.58892,million kilowatt hours
+2023-10,NY,New York,COM,commercial,5689.89462,million kilowatt hours
+2023-10,NY,New York,IND,industrial,1185.72334,million kilowatt hours
+2023-10,NY,New York,OTH,other,,million kilowatt hours
+2023-10,NY,New York,RES,residential,3651.02116,million kilowatt hours
+2023-10,NY,New York,TRA,transportation,220.94979,million kilowatt hours
+2022-05,NY,New York,IND,industrial,1210.06777,million kilowatt hours
+2022-05,NY,New York,OTH,other,,million kilowatt hours
+2022-05,NY,New York,RES,residential,3604.33317,million kilowatt hours
+2022-05,NY,New York,TRA,transportation,190.8758,million kilowatt hours
+2023-08,NY,New York,ALL,all sectors,13588.06902,million kilowatt hours
+2023-08,NY,New York,COM,commercial,6700.57211,million kilowatt hours
+2023-08,NY,New York,IND,industrial,1319.64444,million kilowatt hours
+2023-08,NY,New York,OTH,other,,million kilowatt hours
+2023-08,NY,New York,RES,residential,5343.09351,million kilowatt hours
+2023-08,NY,New York,TRA,transportation,224.75897,million kilowatt hours
+2023-02,NY,New York,ALL,all sectors,11110.59133,million kilowatt hours
+2023-02,NY,New York,COM,commercial,5783.00313,million kilowatt hours
+2023-02,NY,New York,IND,industrial,1156.0037,million kilowatt hours
+2023-02,NY,New York,OTH,other,,million kilowatt hours
+2023-02,NY,New York,RES,residential,3953.48438,million kilowatt hours
+2023-02,NY,New York,TRA,transportation,218.10013,million kilowatt hours
+2024-04,NY,New York,ALL,all sectors,10314.60993,million kilowatt hours
+2024-04,NY,New York,COM,commercial,5298.04582,million kilowatt hours
+2024-04,NY,New York,IND,industrial,1295.68366,million kilowatt hours
+2024-04,NY,New York,OTH,other,,million kilowatt hours
+2024-04,NY,New York,RES,residential,3510.58783,million kilowatt hours
+2024-04,NY,New York,TRA,transportation,210.29261,million kilowatt hours
+2023-07,NY,New York,ALL,all sectors,13987.81497,million kilowatt hours
+2023-07,NY,New York,COM,commercial,6820.40054,million kilowatt hours
+2023-07,NY,New York,IND,industrial,1366.49673,million kilowatt hours
+2023-07,NY,New York,OTH,other,,million kilowatt hours
+2023-03,NY,New York,TRA,transportation,225.77216,million kilowatt hours
+2024-08,NY,New York,ALL,all sectors,14113.95213,million kilowatt hours
+2024-08,NY,New York,COM,commercial,6811.36425,million kilowatt hours
+2024-08,NY,New York,IND,industrial,1393.03142,million kilowatt hours
+2024-08,NY,New York,OTH,other,,million kilowatt hours
+2024-08,NY,New York,RES,residential,5679.64323,million kilowatt hours
+2024-08,NY,New York,TRA,transportation,229.91324,million kilowatt hours
+2024-07,NY,New York,ALL,all sectors,14661.713,million kilowatt hours
+2024-07,NY,New York,COM,commercial,6978.18438,million kilowatt hours
+2024-07,NY,New York,IND,industrial,1399.14793,million kilowatt hours
+2024-07,NY,New York,OTH,other,,million kilowatt hours
+2024-07,NY,New York,RES,residential,6035.48959,million kilowatt hours
+2024-07,NY,New York,TRA,transportation,248.8911,million kilowatt hours
+2024-06,NY,New York,TRA,transportation,227.08873,million kilowatt hours
+2023-11,NY,New York,ALL,all sectors,11020.9403,million kilowatt hours
+2023-11,NY,New York,COM,commercial,5876.93653,million kilowatt hours
+2023-11,NY,New York,IND,industrial,1317.12071,million kilowatt hours
+2023-11,NY,New York,OTH,other,,million kilowatt hours
+2023-11,NY,New York,RES,residential,3608.97419,million kilowatt hours
+2023-11,NY,New York,TRA,transportation,217.90887,million kilowatt hours
+2024-11,NY,New York,ALL,all sectors,10323.68181,million kilowatt hours
+2024-11,NY,New York,COM,commercial,5418.05245,million kilowatt hours
+2024-11,NY,New York,IND,industrial,1251.63828,million kilowatt hours
+2024-11,NY,New York,OTH,other,,million kilowatt hours
+2024-11,NY,New York,RES,residential,3418.64729,million kilowatt hours
+2024-11,NY,New York,TRA,transportation,235.34379,million kilowatt hours
+2024-10,NY,New York,ALL,all sectors,10514.10711,million kilowatt hours
+2024-10,NY,New York,COM,commercial,5550.67599,million kilowatt hours
+2024-10,NY,New York,IND,industrial,1293.96542,million kilowatt hours
+2024-10,NY,New York,OTH,other,,million kilowatt hours
+2024-10,NY,New York,RES,residential,3450.69315,million kilowatt hours
+2024-10,NY,New York,TRA,transportation,218.77255,million kilowatt hours

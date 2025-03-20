@@ -1,27 +1,49 @@
-This project fetches NREL solar data and forecasts solar irradiation to forecast solar generation across seasons. Then, it fetches Energy price and consumption from EIA.
+# Smart Grid Optimization and Forecasting
 
-## Getting Started
+This repository contains a comprehensive Jupyter Notebook project for optimizing and forecasting aspects of smart grids. The project demonstrates how to use multiple data sources, perform time-series analysis, and apply machine learning models to forecast solar irradiance, energy generation, and electricity prices.
 
-Written in Jupyter Notebook. Notebook files are uploaded.
+## Overview
 
-## Dependencies
+The project includes:
+- **Data Collection & Processing:**  
+  - Pulling solar radiation data from the NREL API for New York (using latitude and longitude).
+  - Fetching electricity prices and consumption data from the EIA API.
+- **Data Visualization:**  
+  - Plotting solar irradiance and energy generation.
+  - Visualizing forecasted electricity prices.
+- **Time-Series Forecasting:**  
+  - Using ARIMA for solar irradiance forecasting.
+  - Forecasting electricity prices with SARIMA.
+  - Leveraging XGBoost for additional electricity price forecasting.
+- **Optimization Techniques:**  
+  - Defining solar panel characteristics and calculating solar energy generation.
+  - Comparing actual vs. forecasted energy production.
 
-Python, Numpy, Pandas, Scikit, Seaborn, statsmodels, xgboost, Matplot libraries, & Jupyter Notebook are necessary
+## Features
 
-## Installing & Executing program
+- **API Integration:**  
+  - Retrieves solar data from the [NREL Solar Radiation API](https://developer.nrel.gov/docs/solar/solar-resource-v1/).
+  - Fetches electricity data from the [EIA API v2](https://www.eia.gov/opendata/).
+- **Data Analysis:**  
+  - Utilizes `pandas` and `numpy` for data manipulation.
+  - Visualizes data trends with `matplotlib` and `seaborn`.
+- **Time-Series Forecasting:**  
+  - Implements ARIMA/SARIMA models using `statsmodels` for solar and electricity data.
+  - Uses `XGBoost` for advanced forecasting techniques.
+- **Machine Learning & Deep Learning:**  
+  - Incorporates libraries like `tensorflow` and `torch` (PyTorch) for potential future extensions.
 
-Just upload the ipynb to your jupyter notebook folder
-Different types of functions are clustered in different Cells.
-Just Run the cells that you are interested in.
+## Installation
 
-## Help
+### Prerequisites
 
-Check comments for what the program does Currently Supervised learning methods are uploaded
+- [Python 3.8+](https://www.python.org/downloads/)
+- [Jupyter Notebook](https://jupyter.org/)
+- Git
 
-## Authors
+### Dependencies
 
-Cem Gursan
+Install the required Python packages using pip:
 
-## Version History
-
-0.1 - Initial Release -Forecasting Energy Generation and Electricity Prices
+```bash
+pip install requests pandas numpy matplotlib statsmodels seaborn xgboost prophet tensorflow torch scikit-learn scipy
